@@ -1,0 +1,758 @@
+canonical_identifier: bkk:krp/KR6v0605/v1
+canonical_location: https://kanripo.org/bkk/KR6v0605/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 華雨集（四）
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y28/Y28n0028.xml
+    old_id: Y28n0028
+  edition:
+    short: bkk
+editions:
+- short: 印順
+  label: 印順
+  source_xml_id: wit.orig
+- short: 'Y'
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0605_001.yaml, hash: 'sha256:a97cb9d148d66ff7c1d9c3c6057f2d651f45bb525615ff69562ffd874e85e3dc'}
+  - {seq: 2, filename: KR6v0605_002.yaml, hash: 'sha256:79c2624fa47bbe0259375ee6d286ada1578570f94f4e07b40213b7b88e166e1d'}
+  - {seq: 3, filename: KR6v0605_003.yaml, hash: 'sha256:273f10ea429e761786af1040629b6749bcfdddf68599c8a923ebd956c68ddfa5'}
+  - {seq: 4, filename: KR6v0605_004.yaml, hash: 'sha256:0d8d72c5211f87c27557cdce08a8575911041011d19ea72120cb2cdba542f70d'}
+  - {seq: 5, filename: KR6v0605_005.yaml, hash: 'sha256:541b4822c47b6f3e2eb895588da41de50f5592ffe58ae1e4838d892bb06f9c37'}
+  - {seq: 6, filename: KR6v0605_006.yaml, hash: 'sha256:1272237bba258748f01a70720d0e543482b47915a503315f8701bc66c4c55b82'}
+  - {seq: 7, filename: KR6v0605_007.yaml, hash: 'sha256:492bc7f1e86d12bb8b43e6b395ad075cc4d3367d2002fdf71096ed5a392976d5'}
+  - {seq: 8, filename: KR6v0605_008.yaml, hash: 'sha256:27e3f3d2a1f5800c369776bfd2f852d82f19b4b213ed6325e8d484f76fddbcf6'}
+  - {seq: 9, filename: KR6v0605_009.yaml, hash: 'sha256:28f7f600bd2ace0232654e56620078eb2f51887e3f2a7ea4ac52987e8f7e7cdf'}
+  - {seq: 10, filename: KR6v0605_010.yaml, hash: 'sha256:9aa54ebaa09340e5f9d2d3bfb9b3961f44ee88be53ebc783ed2e9e6e4935f4e3'}
+  - {seq: 11, filename: KR6v0605_011.yaml, hash: 'sha256:c34004f66ea9793f36dc8263d79a5a51f46136fc228ad84b7caf59e13acf85b7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0605_001.markers.yaml, hash: 'sha256:39772e9ec2c815678016feb9ddda58c3f99d384ec4e342c533c28effcbcf3cd6'}
+  - {seq: 2, role: markers, filename: assets/KR6v0605_002.markers.yaml, hash: 'sha256:09268fdef3c79e42d053df00ba1bd833d5c386feea36ee05ee242a44cc38a886'}
+  - {seq: 3, role: markers, filename: assets/KR6v0605_003.markers.yaml, hash: 'sha256:7fc73c141830be3313c4b0f40b7fe76342219d7ecc467bbd5d1d74c13fc7e91f'}
+  - {seq: 4, role: markers, filename: assets/KR6v0605_004.markers.yaml, hash: 'sha256:3de417b9f2d596c95999a02cd3636a7a96f7b21b885e76ca727b350d5eabd66a'}
+  - {seq: 5, role: markers, filename: assets/KR6v0605_005.markers.yaml, hash: 'sha256:880a2c2f2031c620b99a8774c2944716174c56943a673fadae4c132c916da2c9'}
+  - {seq: 6, role: markers, filename: assets/KR6v0605_006.markers.yaml, hash: 'sha256:0f06b7c242fb2f74c3a426f1f50ccec1410267591d943ced2eca88bc7f49db51'}
+  - {seq: 7, role: markers, filename: assets/KR6v0605_007.markers.yaml, hash: 'sha256:259d379c5f98763aef388f772d1079d8a64edc30c8ca320b56a6143e129e0fe2'}
+  - {seq: 8, role: markers, filename: assets/KR6v0605_008.markers.yaml, hash: 'sha256:607ecd79bda00560da659e762110082f347999a9c1743fd2502a3d4f33861c7c'}
+  - {seq: 9, role: markers, filename: assets/KR6v0605_009.markers.yaml, hash: 'sha256:4f9e44153ad7f18c2838a9536693acf5dc87f93bf84d2e7bb38a708b47d7ccc9'}
+  - {seq: 10, role: markers, filename: assets/KR6v0605_010.markers.yaml, hash: 'sha256:0a4eb6f9ce0100f2d66ae6614571367009db725bebb3e87877e42d83529bc946'}
+  - {seq: 11, role: markers, filename: assets/KR6v0605_011.markers.yaml, hash: 'sha256:8ccc81ef4c1525eab9e6ad5989feba097ae3ec317467d51f18cf2963356755f9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0605_Y_001-juan-start
+    span:
+    - body
+    - 0
+    - 24042
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0605_Y_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 一、契理契機之人間佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0605_Y_001-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 一　探求佛法的信念與態度
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0605_Y_001-mulu-3
+    span:
+    - body
+    - 1773
+    - 1773
+  label: 二　印度佛教思想史的分判
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0605_Y_001-mulu-4
+    span:
+    - body
+    - 2890
+    - 2890
+  label: 三　從印度佛教思想史論臺賢教判
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0605_Y_001-mulu-5
+    span:
+    - body
+    - 5353
+    - 5353
+  label: 四　印度佛教嬗變的歷程
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0605_Y_001-mulu-6
+    span:
+    - body
+    - 9337
+    - 9337
+  label: 五　佛教思想的判攝準則
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0605_Y_001-mulu-7
+    span:
+    - body
+    - 10833
+    - 10833
+  label: 六　契理而又適應世間的佛法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0605_Y_001-mulu-8
+    span:
+    - body
+    - 14667
+    - 14667
+  label: 七　少壯的人間佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0605_Y_001-mulu-9
+    span:
+    - body
+    - 16883
+    - 16883
+  label: 八　解脫道與慈悲心行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0605_Y_001-mulu-10
+    span:
+    - body
+    - 19381
+    - 19381
+  label: 九　人菩薩行的真實形象
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0605_Y_001-mulu-11
+    span:
+    - body
+    - 21844
+    - 21844
+  label: 十　向正確的目標邁進
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0605_Y_002-juan-start
+    span:
+    - body
+    - 0
+    - 14113
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0605_Y_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 二、法海探珍
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0605_Y_002-mulu-2
+    span:
+    - body
+    - 4
+    - 4
+  label: 一　正法的本質及其體系
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0605_Y_002-mulu-3
+    span:
+    - body
+    - 1676
+    - 1676
+  label: 二　三期佛教概說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0605_Y_002-mulu-4
+    span:
+    - body
+    - 3350
+    - 3350
+  label: 三　佛教的發展與判教
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0605_Y_002-mulu-5
+    span:
+    - body
+    - 5023
+    - 5023
+  label: 四　法身尚在人間
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0605_Y_002-mulu-6
+    span:
+    - body
+    - 6140
+    - 6140
+  label: 五　無常、性空、真常
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0605_Y_002-mulu-7
+    span:
+    - body
+    - 8012
+    - 8012
+  label: 六　融貫與抉擇
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0605_Y_002-mulu-8
+    span:
+    - body
+    - 10109
+    - 10109
+  label: 七　中道之行
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0605_Y_002-mulu-9
+    span:
+    - body
+    - 13641
+    - 13641
+  label: 八　少壯的佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-juan-start
+    span:
+    - body
+    - 0
+    - 30854
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 三、中國佛教瑣談
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-2
+    span:
+    - body
+    - 6
+    - 6
+  label: 一　生
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-3
+    span:
+    - body
+    - 449
+    - 449
+  label: 二　死
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-4
+    span:
+    - body
+    - 1649
+    - 1649
+  label: 三　鬼與地獄
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-5
+    span:
+    - body
+    - 4514
+    - 4514
+  label: 四　嬰靈
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-6
+    span:
+    - body
+    - 5572
+    - 5572
+  label: 五　經懺法事
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-7
+    span:
+    - body
+    - 10440
+    - 10440
+  label: 六　放生
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-8
+    span:
+    - body
+    - 11574
+    - 11574
+  label: 七　傳戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-9
+    span:
+    - body
+    - 13550
+    - 13550
+  label: 八　還俗與出家
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-10
+    span:
+    - body
+    - 15971
+    - 15971
+  label: 九　供僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-11
+    span:
+    - body
+    - 17039
+    - 17039
+  label: 十　拈華微笑
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-12
+    span:
+    - body
+    - 17976
+    - 17976
+  label: 十一　付法與接法
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-13
+    span:
+    - body
+    - 19987
+    - 19987
+  label: 十二　叢林與小廟
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-14
+    span:
+    - body
+    - 21700
+    - 21700
+  label: 十三　橫出三界
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-15
+    span:
+    - body
+    - 23121
+    - 23121
+  label: 十四　帶業往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-16
+    span:
+    - body
+    - 24230
+    - 24230
+  label: 十五　隔陰之迷
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-17
+    span:
+    - body
+    - 25304
+    - 25304
+  label: 十六　四句料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-18
+    span:
+    - body
+    - 26270
+    - 26270
+  label: 十七　臨終助念
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0605_Y_003-mulu-19
+    span:
+    - body
+    - 28945
+    - 28945
+  label: 十八　肉身菩薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0605_Y_004-juan-start
+    span:
+    - body
+    - 0
+    - 6683
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0605_Y_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 四、淫欲為道
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0605_Y_004-mulu-2
+    span:
+    - body
+    - 4
+    - 4
+  label: 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0605_Y_004-mulu-3
+    span:
+    - body
+    - 535
+    - 535
+  label: 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0605_Y_004-mulu-4
+    span:
+    - body
+    - 2253
+    - 2253
+  label: 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0605_Y_005-juan-start
+    span:
+    - body
+    - 0
+    - 3777
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0605_Y_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 五、佛法中特別愛好的數目
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0605_Y_005-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 一　序說
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0605_Y_005-mulu-3
+    span:
+    - body
+    - 442
+    - 442
+  label: 二　教法
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0605_Y_005-mulu-4
+    span:
+    - body
+    - 2022
+    - 2022
+  label: 三　教典
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0605_Y_005-mulu-5
+    span:
+    - body
+    - 2649
+    - 2649
+  label: 四　人物與地區
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0605_Y_006-juan-start
+    span:
+    - body
+    - 0
+    - 2156
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0605_Y_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 六、辨法相與唯識
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0605_Y_007-juan-start
+    span:
+    - body
+    - 0
+    - 7770
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0605_Y_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 七、談法相
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0605_Y_008-juan-start
+    span:
+    - body
+    - 0
+    - 559
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0605_Y_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 八、苦痛與知識
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0605_Y_009-juan-start
+    span:
+    - body
+    - 0
+    - 3890
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0605_Y_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 九、道在平常日用中
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0605_Y_010-juan-start
+    span:
+    - body
+    - 0
+    - 2120
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0605_Y_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 十、談佛法的宗教經驗
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0605_Y_010-mulu-2
+    span:
+    - body
+    - 20
+    - 20
+  label: 引言——佛法的弘揚要健全團結
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0605_Y_010-mulu-3
+    span:
+    - body
+    - 481
+    - 481
+  label: 第一、「信」的經驗
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0605_Y_010-mulu-4
+    span:
+    - body
+    - 879
+    - 879
+  label: 第二、「戒」的經驗
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0605_Y_010-mulu-5
+    span:
+    - body
+    - 1230
+    - 1230
+  label: 第三、「定」的經驗
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0605_Y_010-mulu-6
+    span:
+    - body
+    - 1667
+    - 1667
+  label: 第四、「慧」的經驗
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0605_Y_010-mulu-7
+    span:
+    - body
+    - 1882
+    - 1882
+  label: 結論
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0605_Y_011-juan-start
+    span:
+    - body
+    - 0
+    - 8090
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0605_Y_011-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 十一、佛學大要
+  type: mulu
+  level: 1
+hash: sha256:484f0ee924b2321bb5b95d559483b210db669533b2f0426a6adb41965af7edeb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
