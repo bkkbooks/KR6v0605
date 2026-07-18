@@ -31,7 +31,7 @@ assets:
   - {seq: 11, filename: KR6v0605_011.yaml, hash: 'sha256:88ac8c579ee787c44580dab5d43249bdca882db50f53defd096b35b396101f05'}
   markers:
   - {seq: 1, role: markers, filename: assets/KR6v0605_001.markers.yaml, hash: 'sha256:e31cf984b48f2d8cf57432e40dcc40f6ad4ae1b86774ecc286d9823067dd76a4'}
-  - {seq: 2, role: markers, filename: assets/KR6v0605_002.markers.yaml, hash: 'sha256:966a0a62c1a89224b6302c14dc760a676514c78924bcbb7a5f2f56dac3860e81'}
+  - {seq: 2, role: markers, filename: assets/KR6v0605_002.markers.yaml, hash: 'sha256:bffd85526f53f31418446b7a3e285a8f247bc72edce2a73c6a460f8186e33180'}
   - {seq: 3, role: markers, filename: assets/KR6v0605_003.markers.yaml, hash: 'sha256:2d735ee3d0908559ee27f2f22648f304cbf73b2e59a4a75316aad73e6fca4ebc'}
   - {seq: 4, role: markers, filename: assets/KR6v0605_004.markers.yaml, hash: 'sha256:99828b63827917d82a3c6716047eed76c794edcc8c3f381220e2cfef3820f644'}
   - {seq: 5, role: markers, filename: assets/KR6v0605_005.markers.yaml, hash: 'sha256:4c043340d50efd73df72076ba32999ceeddfc6cc85e3ed94605533dddb70f298'}
@@ -752,7 +752,7 @@ table_of_contents:
   label: 十一、佛學大要
   type: mulu
   level: 1
-hash: sha256:fa2460a7282f372f0f18bc55156722d224634bfb066df7e8346bed6d858fd1c6
+hash: sha256:5d3503c4276cd3ccd68afcd304be42f4c3ec7e463883b7e6895286e024df7d7d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
